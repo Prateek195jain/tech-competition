@@ -12,22 +12,6 @@ function Compe() {
           COMPETITIONS
         </h1>
       </div>
-
-      {/* <div className="flex justify-end">
-        <div className="flex flex-col col-span-1 row-span-3">
-          <img className="mix-blend-hard-light" src="./images/trophy.png" />
-          <h2 className="text-2xl text-white pt-10">Total Prize Pool</h2>
-          <h1 className="text-3xl text-white pt-5">Rs 25,000</h1>
-        </div>
-        <div className="flex flex-col col-span-1 row-span-3">
-          <h2 className="text-xl text-white">category</h2>
-          <h1 className="text-3xl text-white">SUSTAINABILITY</h1>
-          <h2 className="pt-10 text-xl text-white">First Round</h2>
-          <h1 className="text-3xl text-white">25TH AUG, 23</h1>
-          <h2 className="pt-10 text-xl text-white">Team Size</h2>
-          <h1 className=" text-3xl text-white">2-5 PEOPLE</h1>
-        </div>
-      </div> */}
       <div className="grid grid-rows-3 grid-cols-3 mt-[7%] h-[50vh] w-[90vw] mx-auto gap-4 mb-20">
         <img
           className="mix-blend-hard-light col-span-1 row-span-2 mx-auto"
